@@ -2,7 +2,10 @@
 
 Informatica II - Universidad de Antioquia - 2026-2
 
-Integrante: Riquelme Garcia
+Integrantes:
+
+- Riquelme Garcia
+- Gabriel Angel Florez Zapata
 
 ## Carpetas
 
