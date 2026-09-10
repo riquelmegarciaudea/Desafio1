@@ -1,0 +1,31 @@
+# Compilados
+*.o
+*.obj
+*.exe
+*.a
+*.so
+*.dll
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+.qmake.stash
+CMakeLists.txt.user
+
+# Carpetas de compilacion
+build/
+build-*/
+debug/
+release/
+Debug/
+Release/
+
+# Makefiles generados por qmake
+Makefile
+Makefile.Debug
+Makefile.Release
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
