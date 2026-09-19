@@ -11,6 +11,6 @@ Integrantes:
 
 - `analisis/` - informe preliminar (analisis y diseño)
 - `codigo/` - codigo fuente
-- `documentacion/` - informe final
+- `video/` - enlace del video
 
-Video: pendiente
+Video: https://youtu.be/jJNy8B__7Rk
